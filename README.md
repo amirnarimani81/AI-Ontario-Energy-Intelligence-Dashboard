@@ -207,7 +207,7 @@ mean from a business perspective.
 </p>
 
 ###  **Analytics Tab**
-- Top 5 peak pricing hours
+- Top 10 peak pricing hours
 - Weekly price patterns (Monday–Sunday)
 - Monthly min/max/mean prices
 - Most volatile hours for risk management
