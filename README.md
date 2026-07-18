@@ -14,11 +14,6 @@ into forecasting insights, operational recommendations, and AI-generated executi
 <p align="center">
 <img src="assets/2.png" width="800">
 </p>
-<p align="center">
-
-<img src="assets/Video.webm" width="800">
-
-</p>
 
 
 <h3 align="center">🎥 Project Demo Video</h3>
@@ -187,14 +182,18 @@ mean from a business perspective.
 - Stationarity test results (ADF p-value)
 
 
-<img src="assets/1.png" width="800">
+<p align="center">
+<img src="assets/3.png" width="800">
+</p>
 
 ###  **EDA Tab**
 - Hourly, weekly, and monthly price patterns
 - Correlation heatmap (price vs. demand vs. time features)
 - Anomaly detection (z-score > 3)
 
-<img src="assets/energy_dashboard_demo.gif" width="800">
+<p align="center">
+<img src="assets/4.png" width="800">
+</p>
 
 ###  **Forecasts Tab**
 - ARIMA vs. LSTM side-by-side comparison
@@ -203,7 +202,9 @@ mean from a business perspective.
 - Model performance recommendations
 
 
-<img src="assets/energy_dashboard_demo.gif" width="800">
+<p align="center">
+<img src="assets/5.png" width="800">
+</p>
 
 ###  **Analytics Tab**
 - Top 5 peak pricing hours
@@ -211,7 +212,10 @@ mean from a business perspective.
 - Monthly min/max/mean prices
 - Most volatile hours for risk management
 
-<img src="assets/energy_dashboard_demo.gif" width="800">
+<p align="center">
+<img src="assets/6.png" width="800">
+</p>
+
 
 ###  **AI Consultant Tab**
 - Executive summary (3-4 lines)
@@ -221,8 +225,9 @@ mean from a business perspective.
 - Prioritized strategic recommendations (1-4)
 - Fallback mode if LLM unavailable
 
-<img src="assets/energy_dashboard_demo.gif" width="800">
-
+<p align="center">
+<img src="assets/7.png" width="800">
+</p>
 ---
 
 
