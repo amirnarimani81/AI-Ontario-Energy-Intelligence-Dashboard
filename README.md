@@ -11,7 +11,9 @@ An end-to-end energy analytics platform that transforms raw hourly electricity m
 into forecasting insights, operational recommendations, and AI-generated executive reports.
 </p>
 
-
+<p align="center">
+<img src="assets/2.png" width="800">
+</p>
 <p align="center">
 
 <img src="assets/Video.webm" width="800">
