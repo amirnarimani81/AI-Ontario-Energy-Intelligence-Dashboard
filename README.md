@@ -14,7 +14,7 @@ into forecasting insights, operational recommendations, and AI-generated executi
 
 <p align="center">
 
-<img src="assets/energy_dashboard_demo.gif" width="800">
+<img src="assets/Video.webm" width="800">
 
 </p>
 
