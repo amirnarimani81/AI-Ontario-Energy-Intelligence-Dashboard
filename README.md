@@ -185,7 +185,7 @@ mean from a business perspective.
 - Stationarity test results (ADF p-value)
 
 
-<img src="assets/energy_dashboard_demo.gif" width="800">
+<img src="assets/1.png" width="800">
 
 ###  **EDA Tab**
 - Hourly, weekly, and monthly price patterns
