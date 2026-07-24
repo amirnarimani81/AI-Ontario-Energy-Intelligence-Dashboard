@@ -16,11 +16,12 @@ into forecasting insights, operational recommendations, and AI-generated executi
 </p>
 
 
-<h3 align="center">🎥 Project Demo Video</h3>
+<h2 align="center">Interactive Streamlit Dashboard</h2>
 
 <p align="center">
-  <a href="assets/video.webm">
-    ▶️ Click here to watch the project demo video
+  <a href="[https://youtu.be/vpXS-stfy_A](https://youtu.be/o6DAAbQOtnQ)">
+         width="850"
+         alt="AI Ontario Energy">
   </a>
 </p>
 
