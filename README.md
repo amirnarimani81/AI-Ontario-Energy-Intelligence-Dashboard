@@ -21,7 +21,6 @@ into forecasting insights, operational recommendations, and AI-generated executi
 <p align="center">
   <a href="[https://youtu.be/vpXS-stfy_A](https://youtu.be/o6DAAbQOtnQ)">
          width="850"
-         alt="AI Ontario Energy">
   </a>
 </p>
 
