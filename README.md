@@ -15,12 +15,11 @@ into forecasting insights, operational recommendations, and AI-generated executi
 <img src="assets/2.png" width="800">
 </p>
 
-
 <h2 align="center">Interactive Streamlit Dashboard</h2>
 
 <p align="center">
-  <a href="[https://youtu.be/vpXS-stfy_A](https://youtu.be/o6DAAbQOtnQ)">
-         width="850"
+  <a href="https://youtu.be/o6DAAbQOtnQ">
+    Streamlit Dashboard Demo
   </a>
 </p>
 
