@@ -19,11 +19,10 @@ into forecasting insights, operational recommendations, and AI-generated executi
 <h3 align="center">🎥 Project Demo Video</h3>
 
 <p align="center">
-
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-<img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" 
-width="800">
-</a>
+  <video width="950" controls>
+    <source src="assets/video.webm" type="video/mp4">
+  </video>
+</p>
 
 </p>
 
