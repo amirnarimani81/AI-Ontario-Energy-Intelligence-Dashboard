@@ -20,11 +20,11 @@ into forecasting insights, operational recommendations, and AI-generated executi
 
 <p align="center">
   <video width="950" controls>
-    <source src="assets/video.webm" type="video/mp4">
+    <source src="assets/video.webm" type="video/webm">
+    Your browser does not support the video tag.
   </video>
 </p>
 
-</p>
 
 <p align="center">
 Click the image above to watch the full dashboard demonstration.
