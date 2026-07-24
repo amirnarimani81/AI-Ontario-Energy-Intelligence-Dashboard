@@ -19,10 +19,9 @@ into forecasting insights, operational recommendations, and AI-generated executi
 <h3 align="center">🎥 Project Demo Video</h3>
 
 <p align="center">
-  <video width="950" controls>
-    <source src="assets/video.webm" type="video/webm">
-    Your browser does not support the video tag.
-  </video>
+  <a href="assets/video.webm">
+    ▶️ Click here to watch the project demo video
+  </a>
 </p>
 
 
